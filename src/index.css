@@ -43,6 +43,15 @@
   color: blueviolet;
 }
 
-.far {
+.salary {
+  color: green;
+}
+
+.role {
+  color: hotpink;
+}
+
+.far,
+.fas {
   color: black;
 }
